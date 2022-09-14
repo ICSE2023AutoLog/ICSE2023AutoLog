@@ -14,7 +14,7 @@ For more data, you can get it from: [AutoLogData](https://drive.google.com/drive
 
 ### Execution
 
-You can play with this analysis framwork with multiple ways.
+You can play with this analysis framework with multiple ways.
 
 * `LogStatGen.jar`: fetch and restore log statements from analyzed artifacts for preliminary labelling.
 * `LogEPGen.jar`: acquire log-related execution paths.
