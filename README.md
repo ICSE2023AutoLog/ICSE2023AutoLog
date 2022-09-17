@@ -8,7 +8,7 @@ The repository consists of multiple folders. The folder `/src` includes source c
 
 ### Generated Datasets
 
-The demo datasets are shown in the data folder.
+The demo datasets are shown in the **folder `/data`**.
 
 **Sample:**
 
@@ -20,6 +20,20 @@ The demo datasets are shown in the data folder.
 "Could not get full path. Corresponding file might have deleted already.",
 "Could not get full path. Corresponding file might have deleted already."
 ], "label": 1}
+```
+
+**Sample raw data:**
+
+```html
+INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: HA Enabled:  <*> 
+INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Append Enabled:  <*> 
+INFO org.apache.hadoop.hdfs.server.namenode.FSDirectory: Caching file names occuring more than  <*>  times 
+INFO org.apache.hadoop.hdfs.server.namenode.CacheManager: Using minimum value {} for {}
+WARN org.apache.hadoop.hdfs.server.namenode.FSNamesystem$SafeModeInfo: The threshold value should not be greater than , threshold:  <*> 
+INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem$SafeModeInfo: dfs.namenode.safemode.threshold-pct =  <*> 
+INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem$SafeModeInfo: dfs.namenode.safemode.min.datanodes =  <*> 
+INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem$SafeModeInfo: dfs.namenode.safemode.extension     =  <*> 
+INFO org.apache.hadoop.hdfs.server.namenode.NNConf: ACLs enabled?  <*> 
 ```
 
 For more data, you can get it from: [AutoLogData](https://drive.google.com/drive/folders/197rHozOtNgM6ZzSVLKJ2Kd9sXvAlb3Uo?usp=sharing) & [Pupolar50](https://github.com/ICSE2023AutoLog/ICSE2023AutoLog/tree/main/data)
