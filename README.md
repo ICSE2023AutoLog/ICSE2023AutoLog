@@ -36,7 +36,7 @@ INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem$SafeModeInfo: dfs.namen
 INFO org.apache.hadoop.hdfs.server.namenode.NNConf: ACLs enabled?  <*> 
 ```
 
-For more data, you can get it from: [AutoLogData](https://drive.google.com/drive/folders/197rHozOtNgM6ZzSVLKJ2Kd9sXvAlb3Uo?usp=sharing) & [Pupolar50](https://github.com/ICSE2023AutoLog/ICSE2023AutoLog/tree/main/data)
+For more data, you can get it from: [AutoLogFullData](https://drive.google.com/drive/folders/197rHozOtNgM6ZzSVLKJ2Kd9sXvAlb3Uo?usp=sharing) & [Data](https://github.com/ICSE2023AutoLog/ICSE2023AutoLog/tree/main/data)
 
 ### Execution
 
