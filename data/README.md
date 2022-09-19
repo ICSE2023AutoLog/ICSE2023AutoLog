@@ -1,6 +1,13 @@
 # README
 
-For large-scale demo datasets, Please refer to the following table.
+### 1. Demo Data
+The folder includes the demo dataset produced by AutoLog. In particular, we display the demo results of **six** applications (i.e., Hadoop, HDFS, Zookeeper, Apache Storm, Flink, Kafka) concerning their automated generated 2000 lines of log sequences (`*_raw_demo.txt`) and extracted log events (`*_events_demo.csv`). 
+
+We also show the demo HDFS dataset for anomaly detection utilization in `HDFS_ad_demo.json.zip`. The full dataset applied in our paper (Section VI) can be found [here](https://drive.google.com/drive/folders/197rHozOtNgM6ZzSVLKJ2Kd9sXvAlb3Uo).
+
+### 2. 50-popular projects
+In RQ1 and RQ2, we evaluate AutoLog with 50 popular projects from the maven repository as follows:
+
 
 | Jar                                       |
 | ----------------------------------------- |
