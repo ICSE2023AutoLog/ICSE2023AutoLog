@@ -28,7 +28,7 @@ The demo datasets are shown in the **folder `/data`**.
 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: HA Enabled:  <*> 
 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem: Append Enabled:  <*> 
 INFO org.apache.hadoop.hdfs.server.namenode.FSDirectory: Caching file names occuring more than  <*>  times 
-INFO org.apache.hadoop.hdfs.server.namenode.CacheManager: Using minimum value {} for {}
+INFO org.apache.hadoop.hdfs.server.namenode.CacheManager: Using minimum value <*> for <*>
 WARN org.apache.hadoop.hdfs.server.namenode.FSNamesystem$SafeModeInfo: The threshold value should not be greater than , threshold:  <*> 
 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem$SafeModeInfo: dfs.namenode.safemode.threshold-pct =  <*> 
 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem$SafeModeInfo: dfs.namenode.safemode.min.datanodes =  <*> 
